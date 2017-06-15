@@ -9,6 +9,7 @@
 
 #### Android
 - [유용한 오픈소스 라이브러리 모음](http://pluu.github.io/blog/android/oepnsource/2015/05/11/android-opensource/)
+- [SpinKit ](https://github.com/ybq/Android-SpinKit)
 
 #### iOS
 - [Swift 한글 개발 문서](http://swift.leantra.kr/)
