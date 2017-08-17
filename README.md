@@ -16,3 +16,4 @@
 - [Hero Animation](https://github.com/lkzhao/Hero)
 - [SCLAlertView 디자인 좋은 엘럿뷰!](https://github.com/vikmeup/SCLAlertView-Swift)
 - [야곰님 추천 라이브러리](http://blog.yagom.net/532)
+- [배경에 동영상이 재생되는 라이브러리](https://github.com/svtek/VideoSplashKit)
