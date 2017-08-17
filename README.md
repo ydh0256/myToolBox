@@ -13,3 +13,6 @@
 
 #### iOS
 - [Swift 한글 개발 문서](http://swift.leantra.kr/)
+- [Hero Animation](https://github.com/lkzhao/Hero)
+- [SCLAlertView 디자인 좋은 엘럿뷰!](https://github.com/vikmeup/SCLAlertView-Swift)
+- [야곰님 추천 라이브러리](http://blog.yagom.net/532)
