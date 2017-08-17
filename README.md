@@ -13,7 +13,8 @@
 
 #### iOS
 - [Swift 한글 개발 문서](http://swift.leantra.kr/)
-- [Hero Animation](https://github.com/lkzhao/Hero)
-- [SCLAlertView 디자인 좋은 엘럿뷰!](https://github.com/vikmeup/SCLAlertView-Swift)
+- [Hero](https://github.com/lkzhao/Hero) 머테리얼 히어로 전환 애니매이션을 iOS로 구현
+- [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) 디자인 좋은 엘럿뷰!
 - [야곰님 추천 라이브러리](http://blog.yagom.net/532)
-- [배경에 동영상이 재생되는 라이브러리](https://github.com/svtek/VideoSplashKit)
+- [VideoSplashKit](https://github.com/svtek/VideoSplashKit) 배경에 동영상이 재생되는 라이브러리
+- [FSCalendar](https://github.com/WenchaoD/FSCalendar) 달력 라이브러리
