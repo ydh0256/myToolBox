@@ -7,6 +7,7 @@
 - [색감](http://flatuicolors.com/)
 - [색감2](https://www.materialui.co/)
 - [무료 사진](http://thestocks.im/?ref=flatuicolors.com)
+- [UI/UX를 디자인할때 생각해야할것들](https://medium.com/@Yunkom/%EB%86%93%EC%B9%98%EA%B8%B0-%EC%89%AC%EC%9A%B4-states-of-ui-design-29d10fdf3219)
 
 #### Android
 - [유용한 오픈소스 라이브러리 모음](http://pluu.github.io/blog/android/oepnsource/2015/05/11/android-opensource/)
